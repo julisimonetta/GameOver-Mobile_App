@@ -1,0 +1,17 @@
+
+body{
+    background-image: url(https://user-images.githubusercontent.com/75273639/163312873-998df823-a22d-4d94-a9b9-a325a10c620c.jpg);
+    /* background-color: rgb(36, 36, 36); */
+}
+.paypal-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    margin-top: 15rem;
+    color: #fff;
+    padding: 2rem;
+    background: linear-gradient(0deg, rgba(49,169,232,0.8771708512506565) 0%, rgba(253,45,196,0.6306722518108806) 100%);
+    border-radius: 2rem;
+}
